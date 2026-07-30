@@ -1,6 +1,10 @@
 # Gerenciador de Tarefas
 ## Um simples gerenciador de tarefas feito na linguagem *Java*, utilizando os princípios do Encapsulamento. 
 
+### 🛠️ To-do List
+- [ ] Persistência de Tarefas;
+- [ ] Interface Gráfica;
+
 ### ⚙️ Funcionalidades: 
 É possível adicionar tarefas básicas, dando a elas um título, descrição e uma data de conclusão. Utilizando o menu inicial, também é possível listar e modificar seu status.
 
