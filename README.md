@@ -2,7 +2,7 @@
 ## Um simples gerenciador de tarefas feito na linguagem *Java*, utilizando os princípios do Encapsulamento. 
 
 ### 🛠️ To-do List
-- [ ] Persistência de Tarefas;
+- [x] Persistência de Tarefas;
 - [ ] Interface Gráfica;
 
 ### ⚙️ Funcionalidades: 
