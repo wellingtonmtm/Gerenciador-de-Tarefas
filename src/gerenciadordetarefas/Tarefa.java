@@ -13,6 +13,11 @@ public class Tarefa {
         this.completa = false;
     }
     
+    @Override
+    public String toString() {
+        return this.titulo + ";" + this.descricao + ";" + this.data + ";" + this.completa;
+    }
+    
     public void setTitulo(String titulo) {
         this.titulo = titulo;
     }
